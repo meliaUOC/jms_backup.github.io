@@ -1,0 +1,20 @@
+# Site Settings
+locale                   : "en-US"
+title                    : "Joan Melià-Seguí, PhD"
+title_separator          : "-"
+name                     : &name "Joan Melià-Seguí"
+description              : &description "Associate Professor · EIMT, Universitat Oberta de Catalunya (UOC)"
+url                      : "https://joan.melia.cat" # o el teu nou domini .cat
+
+# Site Author
+author:
+  name             : "Joan Melià-Seguí, PhD"
+  avatar           : "joan2.jpg"
+  bio              : "Associate Professor at Estudis d'Informàtica, Multimèdia i Telecomunicació (EIMT), Universitat Oberta de Catalunya (UOC)."
+  location         : "Barcelona, Spain"
+  employer         : "Universitat Oberta de Catalunya (UOC)"
+  email            : "melia@uoc.edu"
+  googlescholar    : "https://scholar.google.es/citations?user=W2WuH4UAAAAJ"
+  orcid            : "https://orcid.org/0000-0001-8473-4500"
+  github           : ""
+  linkedin         : ""
